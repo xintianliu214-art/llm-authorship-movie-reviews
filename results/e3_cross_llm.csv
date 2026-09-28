@@ -1,0 +1,5 @@
+setting,accuracy,f1
+Within A (LLM A only),0.93,0.931
+Within B (LLM B only),0.985,0.985
+A -> B (unseen LLM),0.955,0.956
+B -> A (unseen LLM),0.805,0.769

@@ -1,0 +1,7 @@
+feature_set,n_features,accuracy,f1
+Lexical (TTR),1,0.798,0.794
+Sentence length,1,0.538,0.529
+POS ratios,5,0.948,0.948
+Sentiment,1,0.543,0.619
+Punctuation,3,0.747,0.774
+All features,11,0.942,0.943
