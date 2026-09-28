@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+spacy
+nltk
+vaderSentiment
+jupyter
+openai
+anthropic
