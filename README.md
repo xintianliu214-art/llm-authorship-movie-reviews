@@ -61,9 +61,11 @@ Cross-model transfer was asymmetric, indicating that strong in-domain detection 
 │   ├── 03_features.ipynb
 │   ├── 04_experiments.ipynb
 │   └── 05_error_analysis.ipynb
-├── results/
-│   ├── figures/
-│   └── tables/
+└── results/
+    ├── figures/
+    ├── human_reviews.csv
+    ├── all_texts.csv
+    └── features.csv
 ```
 
 ## Reproducibility
