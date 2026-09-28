@@ -65,7 +65,8 @@ Cross-model transfer was asymmetric, indicating that strong in-domain detection 
 ├── results/
 │   ├── figures/
 │   └── tables/
-└── poster/****'''
+└── poster/
+```
 
 ## Reproducibility
 
