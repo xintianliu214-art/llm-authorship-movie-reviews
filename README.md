@@ -72,8 +72,6 @@ Cross-model transfer was asymmetric, indicating that strong in-domain detection 
 
 Run the notebooks in numerical order.
 
-API keys must be supplied through environment variables and must **not** be committed to the repository.
-
 The generated texts and extracted features are included in results/, so notebooks 03–05 can be reproduced without re-generating data through the APIs.
 
 The human-review source is the **IMDb Large Movie Review Dataset** (Maas et al., 2011). Model names, generation parameters, random seeds, and evaluation settings are documented in the notebooks and poster methodology.
